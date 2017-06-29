@@ -17,7 +17,7 @@ export default class Signin extends React.Component{
               <div class="form-white-background">
 
                   <div class="form-title-row">
-                      <h1>Log in</h1>
+                      <h1>Sign in</h1>
                   </div>
 
                   <div class="form-row">
