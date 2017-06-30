@@ -8,7 +8,6 @@ export default class Layout extends React.Component{
     const tempPadding = {
       marginTop: "40px"
     };
-    const {location} = this.props;
 
     return (
       <div>
